@@ -36,3 +36,33 @@ final products = [
     'sizes': [8, 9, 10],
   },
 ];
+
+final cart = [
+  {
+    'id': '3',
+    'title': 'Jordan Shoes',
+    'price': 420.69,
+    'imageUrl':
+        'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/f/c/z/7-jd-saucy-belle-grey-original-imagmmtq9uyhts9s.jpeg?q=70',
+    'company': 'Nike',
+    'size': 8,
+  },
+  {
+    'id': '3',
+    'title': 'Jordan Shoes',
+    'price': 420.69,
+    'imageUrl':
+        'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/f/c/z/7-jd-saucy-belle-grey-original-imagmmtq9uyhts9s.jpeg?q=70',
+    'company': 'Nike',
+    'size': 8,
+  },
+  {
+    'id': '3',
+    'title': 'Jordan Shoes',
+    'price': 420.69,
+    'imageUrl':
+        'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/f/c/z/7-jd-saucy-belle-grey-original-imagmmtq9uyhts9s.jpeg?q=70',
+    'company': 'Nike',
+    'size': 8,
+  }
+];
